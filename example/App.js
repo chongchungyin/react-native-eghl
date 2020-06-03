@@ -33,7 +33,7 @@ export default class App extends Component<{}> {
                 TransactionType: 'SALE',
                 Amount: '1.00',
                 CurrencyCode: 'MYR',
-                PaymentID: 'testpaymentidxxxx',
+                PaymentID: 'testpaymentidxyyy',
                 OrderNumber: 'testpaymentidxxxx',
                 PaymentDesc: 'Testing Payment',
                 PymtMethod: 'ANY',
