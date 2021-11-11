@@ -23,7 +23,7 @@ public class EghlModule extends ReactContextBaseJavaModule implements ActivityEv
     private Callback paymentCallback;
 
     private static final String PROD_HOST = "https://securepay.e-ghl.com/IPG/Payment.aspx";
-    private static final String TEST_HOST = "https://test2pay.ghl.com/IPGSG/Payment.aspx";
+    private static final String TEST_HOST = "https://pay.e-ghl.com/IPGSG/Payment.aspx";
 
     public EghlModule(ReactApplicationContext reactContext) {
         super(reactContext);
